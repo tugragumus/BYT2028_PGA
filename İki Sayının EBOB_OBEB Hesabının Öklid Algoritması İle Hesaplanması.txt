@@ -1,0 +1,9 @@
+1. Başla.
+2. "Birinci sayıyı giriniz." yaz ve girilen sayıyı oku. (n1)
+3. "İkinci sayıyı giriniz." yaz ve girilen sayıyı oku. (n2)
+4. Eğer birinci sayı ikinci sayıdan küçükse iki sayının değerini birbirleriyle değiştir.
+5. Birinci sayıyı ikinci sayıya böl ve kalanı sakla. (k)
+6. Eğer kalan 0'dan büyükse 7. adıma git eğer değilse 8. adıma git.
+7. İkinci sayının değerini birinci sayıya ata, kalanın değerini ikinci sayıya ata ve 5. adıma git.
+8. İkinci sayının değerini ekrana yaz.
+9. Bitir.
